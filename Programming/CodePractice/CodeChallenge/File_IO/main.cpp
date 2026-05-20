@@ -1,5 +1,6 @@
-#include <stdio.h>
-#include <iostream>
+// #include <stdio.h>
+// #include <iostream>
+#include <bits/stdc++.h>
 
 // #pragma message("Test FIle IO IO")
 
